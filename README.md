@@ -21,7 +21,7 @@ Dolayısıyla, iyi, ölçeklendirilebilir, geliştirimeye açık ve kolay, hata 
 
 
 
-### S - Single-Responsibility Principle
+### S - **[Single-Responsibility Principle](https://github.com/bzelban/SOLID-DART/blob/main/1.SRP.dart)**
 
 ### O - Open-Closed Principle
 
