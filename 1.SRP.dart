@@ -13,8 +13,6 @@
 
 // ignore_for_file: unused_element
 
-import 'dart:core';
-
 class Anahtar {
   int id;
   String lokasyon;
@@ -55,12 +53,12 @@ class Anahtar {
 }
 
 /*
-Yukarıdaki anahtar örneğinde görüldüğü üzere, anahtar sadece bir görevi 
-üstlenmiyor. Hem fiziksel işlevi, hem de veritabanında bilgilerinin saklanması 
-görevlerine sahip. Dolayısıyla Single Responsibility Principle şartını ihlal 
-ediyor.
+  Yukarıdaki anahtar örneğinde görüldüğü üzere, anahtar sadece bir görevi 
+  üstlenmiyor. Hem fiziksel işlevi, hem de veritabanında bilgilerinin saklanması 
+  görevlerine sahip. Dolayısıyla Single Responsibility Principle şartını ihlal 
+  ediyor.
 
-Çözüm ise,
+  Çözüm ise,
 */
 
 class _Anahtar {
@@ -107,10 +105,10 @@ class _AnahtarDB {
 
 /*
 
-Göründüğü üzere, Anahtar Nesnesi iki farklı şekilde, kendi sorumluluklarını 
-alabileceği şekilde ayrılmış olup Single Responsibility Principle yazımına 
-uygun halde getirilmiş. Görevlerinden fazlası yüklenmeden yapılmıştır. Bu s
-ayede ileride oluşabilecek hatalardan oluşacak Domino Efektinin önüne 
-geçilmiştir.
+  Göründüğü üzere, Anahtar Nesnesi iki farklı şekilde, kendi sorumluluklarını 
+  alabileceği şekilde ayrılmış olup Single Responsibility Principle yazımına 
+  uygun halde getirilmiş. Görevlerinden fazlası yüklenmeden yapılmıştır. Bu 
+  sayede ileride oluşabilecek hatalardan oluşacak Domino Efektinin önüne 
+  geçilmiştir.
 
 */
