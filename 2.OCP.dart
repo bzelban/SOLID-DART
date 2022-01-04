@@ -1,6 +1,6 @@
 /*
 
-Open-Closed Principle
+  Open-Closed Principle
 
   Nesneler, Modüller veya Fonksiyon gibi Varlıklar geliştirmeye açık, 
   değiştirmeye kapalı olmalıdır. 
