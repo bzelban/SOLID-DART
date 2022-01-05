@@ -4,7 +4,7 @@
 
 ### 0-Tanım
 
-SOLID Yazılım Geliştirme Prensipleri, yazılımın yeniden kullanılabilir, sürdürülebilir, anlaşılık ve esnek olmasını sağlayan, kod tekrarını önleyen bir nevi Centilmenlik Anlaşmasıdır. 
+SOLID Yazılım Geliştirme Prensipleri, yazılımın yeniden kullanılabilir, sürdürülebilir, anlaşılır ve esnek olmasını sağlayan, kod tekrarını önleyen bir nevi Centilmenlik Anlaşmasıdır. 
 
 Genel amaçları:
 
